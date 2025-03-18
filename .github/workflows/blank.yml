@@ -6,6 +6,7 @@
 # - Trending Videos: Featured section with categories
 # - Video Feed: Grid displaying diverse video content
 
+[![.github/workflows/blank.yml](https://github.com/painx05/test1/actions/workflows/blank.yml/badge.svg?branch=main)](https://github.com/painx05/test1/actions/workflows/blank.yml)
 def display_homepage():
     print("-------------------- Homepage --------------------")
     print("Logo | Search Bar | User Profile Icon | Upload Button")
